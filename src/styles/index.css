@@ -10,3 +10,10 @@ html, body, #root {
 * {
   box-sizing: border-box;
 }
+
+body {
+  max-width: 375px;
+  max-height: 812px;
+  /* margin: 0 auto; */
+  background: #2e2e2e;
+}
